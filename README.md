@@ -4,7 +4,7 @@ This app was created for a code challenge, I decided to open source it as I want
 The app demonstrates the use of:
 - Swift 4
 - CoreLocation
-- Making aynchronous URL connections to a RESTful API
+- Making asynchronous URL connections to a RESTful API
 - Receiving and deserializing JSON objects
 - Basic use of Storyboards & Autolayout
 - Simple MVC app structure
