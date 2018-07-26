@@ -92,7 +92,7 @@ class Flickr: NSObject {
     
     guard var URL = URL(string: "https://api.flickr.com/services/rest/") else {return}
     
-    // warning: INSERT YOUR API LEY HERE!
+    // TODO: INSERT YOUR API LEY HERE!
     var combinedParams = ["api_key": "",
                           "format" : "json",
                           "nojsoncallback" : "1", // Flickr uses JSONP by default which JSONSerialization can't understand
